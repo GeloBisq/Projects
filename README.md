@@ -8,6 +8,10 @@ This repository stores projects I've worked on, showcasing different technologie
 
 A command-line Blackjack game implemented in C++.
 
+### ICPC Research
+
+Collaborative solutions to **ICPC (International Collegiate Programming Contest)** problems, developed during summer research at RCC.
+
 ## Developed with Google AI Studio
 
 **[Google AI Studio](https://aistudio.google.com/)**
