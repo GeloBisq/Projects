@@ -1,0 +1,5 @@
+{
+  "name": "AI Response Feedback",
+  "description": "An application that uses Gemini AI to provide detailed feedback on how well a user's response answers a given prompt, evaluating criteria like creativity, relevance, and clarity.",
+  "requestFramePermissions": []
+}
