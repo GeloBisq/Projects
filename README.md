@@ -12,8 +12,10 @@ A command-line Blackjack game implemented in C++.
 
 **[Google AI Studio](https://aistudio.google.com/)**
 
+### AI Response Feedback
+
+An AI-powered application designed to provide instant, constructive feedback on student responses to various prompts.
+
 ### TigerTracks
 
 An AI-powered application to assist RCC students in scheduling classes that align with their specific transfer plans.
-
-### AI Response Feedback
