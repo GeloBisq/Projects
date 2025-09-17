@@ -10,7 +10,7 @@ A command-line Blackjack game implemented in C++.
 
 ## Developed with Google AI Studio
 
-[Google AI Studio](https://aistudio.google.com/)
+**[Google AI Studio](https://aistudio.google.com/)**
 
 ### TigerTracks
 
