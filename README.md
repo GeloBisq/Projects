@@ -4,7 +4,7 @@ This repository stores projects I've worked on, showcasing different technologie
 
 ## Developed by Me
 
-### 21 (Blackjack)
+### Blackjack
 
 A command-line Blackjack game implemented in C++.
 
