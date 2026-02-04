@@ -8,7 +8,7 @@ The form was designed with a personalized layout and styling while maintaining c
 ## Features
 - Page title and description
 - Name, email, and number input fields
-- HTML5 input validation
+- HTML input validation
 - Dropdown menu
 - Radio button group
 - Checkbox selections
