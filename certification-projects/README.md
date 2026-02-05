@@ -1,6 +1,5 @@
-# freeCodeCamp Certification Projects
-
-Projects completed as part of freeCodeCamp.org certification courses. These follow structured curricula and demonstrate proficiency in foundational programming concepts, industry-relevant tools, and best practices.
+# 🎓 Certification Course Projects (freeCodeCamp) - freeCodeCamp.org
+Projects completed as part of freeCodeCamp.org certification programs. These follow structured curricula and demonstrate mastery of core programming concepts, industry-relevant tools, and best practices.
 
 ## Certifications Represented
 - Responsive Web Design
