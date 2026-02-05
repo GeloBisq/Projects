@@ -1,6 +1,5 @@
-# Collaborative Projects
-
-Projects developed in collaboration with classmates, peers, or teammates. These projects demonstrate my ability to work effectively in team environments, contribute to shared codebases, and apply version control and communication best practices.
+# 🤝 Team-Based & Collaborative Projects
+Projects developed in collaboration with classmates, peers, or teammates. These highlight my experience with teamwork, communication, version control, and collaborative software development workflows.
 
 ## What These Projects Demonstrate
 - Team-based problem solving
