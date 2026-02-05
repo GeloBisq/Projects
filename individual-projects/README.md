@@ -1,6 +1,6 @@
 # 🧑‍💻 Individual Projects
 
-A collection of projects I developed independently to strengthen my programming skills, explore new technologies, and apply concepts learned in coursework.
+Projects independently designed and implemented by me. These showcase my personal problem-solving style, technical strengths, and ability to take ideas from concept to completion.
 
 ## Projects
 
