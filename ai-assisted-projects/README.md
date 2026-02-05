@@ -1,6 +1,5 @@
-# AI-Assisted Projects
-
-Projects created with the support of AI tools such as Google AI Studio for brainstorming, prototyping, and iterative development. These projects showcase my ability to effectively leverage AI as a productivity tool while maintaining strong programming fundamentals and independent problem-solving skills.
+# 🤖 AI-Assisted Projects (Google AI Studio) - Google AI Studio
+Projects created with support from Google AI Studio for prototyping, experimentation, and rapid iteration. These demonstrate my ability to effectively leverage AI tools while maintaining strong foundational programming skills.
 
 ## What These Projects Demonstrate
 - Prompt engineering and refinement
