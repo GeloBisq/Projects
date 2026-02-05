@@ -1,4 +1,4 @@
-# Individual Projects
+# 🧑‍💻 Individual Projects
 
 A collection of projects I developed independently to strengthen my programming skills, explore new technologies, and apply concepts learned in coursework.
 
